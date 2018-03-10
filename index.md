@@ -6,7 +6,7 @@ title: CV - Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
-:email: <a href="antoine.courtin@mac.com">antoine.courtin@mac.com</a>
+<a href="antoine.courtin@mac.com">antoine.courtin@mac.com</a>
 | <a href="http://antoinecourtin.com/">Site web</a>
 | <a href="http://twitter.com/seeksanusername">Twitter</a>
 | <a href="https://medium.com/@seeksanusername">Blog Medium</a>
@@ -248,7 +248,7 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 
-<div id="webaddress">
+<div id="footer">
 CV réalisé en markdown, hébergé sur gihtub. Template dispo <a href="ahttps://github.com/elipapa/markdown-cv">içi</a>
 </div>
 

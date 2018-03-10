@@ -35,8 +35,7 @@ Responsable de la Cellule d'Ingénierie documentaire à Institut national d'hist
 `2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
-- Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche
-- co-organisateur des #LundisNum
+- Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institutions
 
 `2013-2015`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)

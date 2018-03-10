@@ -196,8 +196,26 @@ Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federat
 ### en 2018
 `Pro`
 __Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+- [Consulter](https://ventesdantiques.inha.fr/")
 
-- <a href="https://ventesdantiques.inha.fr/">Consulter</a>
+`Pro`
+![Texte alternatif](https://framapic.org/nCJIp0tIS7mo/DI7BvJnye40C.jpg "texte pour le titre, facultatif")
+
+
+__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+- [Consulter](https://ventesdantiques.inha.fr/")
+
+`Pro`
+__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+- [Consulter](https://ventesdantiques.inha.fr/")
+
+`Pro`
+__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+- [Consulter](https://ventesdantiques.inha.fr/")
+
+`Pro`
+__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+- [Consulter](https://ventesdantiques.inha.fr/")
 
 
 ## Formation

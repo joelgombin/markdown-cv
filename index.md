@@ -32,19 +32,19 @@ Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et
 ## Activités professionnelles
 ### Activité principale
 
-`juil. 2015 - `
+`2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
 - Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche
 - co-organisateur des #LundisNum
 
-`oct. 2013 - jui. 2013`
+`2013-2015`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)
 
 - Récolte et analyse des besoins des producteurs de données partenaires du Labex
 - Veille métiers du patrimoine et nouvelles technologies (réalisation d'un blog de veille)
 
-`nov. 2010 - sept. 2013`
+`2010-2013`
 __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
 - Pilotage des équipes de développement et de consultants fonctionnels
@@ -52,13 +52,13 @@ __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
 ### Autres activités
 
-`Novembre 2017`
+`2017`
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto)
 
 `2016`
 __Membre du comité scientifique du Forum 2016 de l'AAF__, Association des archivisites français (Paris)
 
-`2015 - 2018`
+`2015-2018`
 __Formateur "médiation numérique"__, Association des archivisites français (Paris)
 
 `2014`
@@ -198,8 +198,10 @@ Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federat
 __Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
 - [Consulter](https://ventesdantiques.inha.fr/")
 
-`Pro`
-![Texte alternatif](https://framapic.org/nCJIp0tIS7mo/DI7BvJnye40C.jpg "texte pour le titre, facultatif")
+`Perso`
+![Texte alternatif](https://framapic.org/Rm9IQaisQaHH/G5ycklInDXzA.jpg "texte pour le titre, facultatif")__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+- [Consulter](https://ventesdantiques.inha.fr/")
+
 
 
 __Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques

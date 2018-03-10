@@ -168,11 +168,21 @@ a:hover {
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
-
 #webaddress a {
 	text-decoration: none;
 }
 
+#footer {
+	margin-top: 15em;
+	position: relative;
+	left: 33%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+}
+#footer a {
+	text-decoration: none;
+}
 em {
 	font-weight: bold;
 	font-style: italic;

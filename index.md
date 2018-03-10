@@ -214,7 +214,7 @@ __Tableau périodique (ou pas) des outils/ressources pour les humanités numéri
 - [Consulter](https://goo.gl/LI9nVj")
 
 
-## Formation :relaxed:
+## Formation
 
 `2008-2010`
 __Master "Nouvelles technologies appliquées aux sciences historiques"__

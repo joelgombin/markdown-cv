@@ -22,7 +22,7 @@ Responsable de la Cellul d'Ingénierie documentaire à Institut national d'histo
 
 ## Compétences
 
-Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire et archivistique ; Formats de description et d'échanges des métadonnées ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Datavisualisation
+> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire et archivistique ; Formats de description et d'échanges des métadonnées ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Datavisualisation
 
 
 ## Centre d'intérêts
@@ -191,33 +191,33 @@ Antoine Courtin. *Visualizing the social network for the art auctions in Paris (
 Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
 
 
-## Participation aux projets
+## Sélection de projets
 
 ### en 2018
 `Pro`
 __Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
 - [Consulter](https://ventesdantiques.inha.fr/")
 
+
+### en 2017
+`Pro`
+__Webapp cartographique du RETIF__, Exploitation de données sous la forme d'une cartographie du répertoire des tableaux italiens dans les collections publiques françaises
+- [Consulter](https://ventesdantiques.inha.fr/")
+
 `Perso`
-![Texte alternatif](https://framapic.org/Rm9IQaisQaHH/G5ycklInDXzA.jpg "texte pour le titre, facultatif")__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
-- [Consulter](https://ventesdantiques.inha.fr/")
+__BotInfocom__, Bot Twitter qui diffuse de faux titres d’articles/conférence en InfoCom aléatoirement générés
+- [Consulter](https://twitter.com/search?q=%23botInfocom&src=typd")
 
 
-
-__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
-- [Consulter](https://ventesdantiques.inha.fr/")
+### en 2016
 
 `Pro`
-__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
-- [Consulter](https://ventesdantiques.inha.fr/")
+__Webdocumentaire autour du portail de Conques__,
+- [Consulter]( https://portail3d-conques.inha.fr/")
 
-`Pro`
-__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
-- [Consulter](https://ventesdantiques.inha.fr/")
-
-`Pro`
-__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
-- [Consulter](https://ventesdantiques.inha.fr/")
+`Perso`
+__Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__, Sélection éditorialisée d'outils DH
+- [Consulter](https://goo.gl/LI9nVj")
 
 
 ## Formation
@@ -247,6 +247,8 @@ Grand Prix *DataCulture*
 Ministère de la Culture et de la Communication (Paris)
 
 
+
+> CV réalisé en markdown
 
 <!-- ### Footer
 

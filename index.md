@@ -39,34 +39,45 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `juillet 2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
-- toto
-- tata
+- > toto
+- > tata
 
 `octobre 2013 - juin 2013`
-__Ingénieur d'étude 
-Modélisation, référentiels et culture numérique__, Labex Les passés dans le présent, Paris (Université Paris 10)
+__Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)
 
-- toto
-- tata
+- > toto
+- > tata
 
 `novembre 2010 - Septembre 2013`
 __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
-- toto
-- tata
+- > toto
+- > tata
 
 ### Autres activités
-`novembre 2010 - Septembre 2013`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+`Novembre 2017`
+__Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2016`
+__Membre du comité scientifique du Forum 2016 de l'AAF__, Association des archivisites français (Troyes)
+
+`2014`
+__"Faciliateur" dans le cadre du projet WeViz (démarche exploratoire de création collaborative et d’apprentissage par le faire)__, Institut d'aménagement et d'urbanisme de la région Île-de-France (Pari)
+
+`2014`
+__Membre du comité Open Data à l'Université Paris Ouest Nanterre__, Paris
+
+### Enseignements
+`2018`
+__Master MEDAS : eco-système du linkedopendata culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris)
+`2018`
+__Master MEDAS : eco-système du linkedopendata culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris)
+`2017-2018`
+__Master Gestionnaire de l'information : initiation XML + pratique autour de l'exploitation de données (4x3h)__, École de bibliothécaires-documentalistes (Paris)
 
 
-
+## Interventions
 
 ## Publications
 

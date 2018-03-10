@@ -36,17 +36,27 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Activités professionnelles
 ### Activité principale
 
-`1600`
-__Royal Mint__, London
+`juillet 2015 - `
+__Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
-- Warden
-- Minted coins
+- toto
+- tata
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`octobre 2013 - juin 2013`
+__Ingénieur d'étude 
+Modélisation, référentiels et culture numérique__, Labex Les passés dans le présent, Paris (Université Paris 10)
+
+- toto
+- tata
+
+`novembre 2010 - Septembre 2013`
+__Chef de projet / consultants__, Naoned Systemes (Nantes)
+
+- toto
+- tata
 
 ### Autres activités
-`1600`
+`novembre 2010 - Septembre 2013`
 __Royal Mint__, London
 
 - Warden
@@ -82,7 +92,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Formations
 
 `2008-2010`
-__Master II "Nouvelles technologies appliquées aux sciences historiques__
+__Master "Nouvelles technologies appliquées aux sciences historiques"__
 
 - Ecole nationale des chartes, Paris
 

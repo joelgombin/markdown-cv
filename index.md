@@ -27,7 +27,7 @@ Responsable de la Cellul d'Ingénierie documentaire à Institut national d'histo
 
 ## Centre d'intérêts
 
-\#OpenGLAM \#LODLAM \#food
+\#OpenGLAM \#LODLAM \#food \#danse
 
 ## Activités professionnelles
 ### Activité principale

@@ -165,7 +165,10 @@ __Methodological Proposals for Designing Federative Platforms in Cultural Linked
 ## Publications
 
 
-### Chapitre d'ouvrage
+### Ouvrages collectifs
+
+`2018`
+Antoine Courtin. *Cartographie sémantique* , *Open data* in 100 notions pour la Médiation culturelle numérique, Paris, Les Éditions de l'Immatériel, 2018. A paraître.
 
 `2017`
 Antoine Courtin, Jean-Luc Minel. *Propositions méthodologiques pour la conception et la réalisation d'entrepôts ancrés dans le Web de données* in Enjeux numériques pour les médiation scientifiques et culturelles du passé, Presses Universitaires de Paris Nanterre, 2017, Notions et méthodes, 978-2-84016-1.
@@ -176,13 +179,14 @@ Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *To
 ### Articles
 
 `2018`
-Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori», Supplement 10, 2018. A paraitre
+Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori», Supplement 10, 2018. A paraître.
 
 `2017`
-Antoine Courtin, Léa Saint-Raymond *Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms*, Artl@s Bulletin 6, n°2, 2017
+Antoine Courtin, Léa Saint-Raymond *Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms*, Artl@s Bulletin 6, n°2, 2017.
 
 `2014`
 Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
+
 
 
 ## Sélection de projets
@@ -192,7 +196,6 @@ Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federat
 __Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques
 - [Consulter](https://ventesdantiques.inha.fr/")
 
-
 ### en 2017
 `Pro`
 __Webapp cartographique du RETIF__. Exploitation de données sous la forme d'une cartographie du répertoire des tableaux italiens dans les collections publiques françaises
@@ -201,7 +204,6 @@ __Webapp cartographique du RETIF__. Exploitation de données sous la forme d'une
 `Perso`
 __BotInfocom__. Bot Twitter qui diffuse de faux titres d’articles/conférence en InfoCom aléatoirement générés
 - [Consulter](https://twitter.com/search?q=%23botInfocom&src=typd")
-
 
 ### en 2016
 

@@ -18,7 +18,9 @@ Ingénierie documentaire, humanités numériques, histoire de l'art.
 ## Actuelleement
 
 Responsable de la Cellul d'Ingénierie documentaire
+
 Département des études et de la recherche
+
 Institut national d'histoire de l'art (INHA)
 
 ### Compétences

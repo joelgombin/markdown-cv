@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Antoine Courtin
-Physicist, Mathematician, Cambridge professor.
+Ingénierie documentaire, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>

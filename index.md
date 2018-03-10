@@ -1,13 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV - Antoine Courtin
 ---
 # Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="antoine.courtin@mac.com">antoine.courtin@mac.com</a>
+| <a href="http://twitter.com/seeksanusername">Twitter</a>
+| <a href="https://medium.com/@seeksanusername">Blog Medium</a>
+| <a href="https://github.com/antoinecourtin">Github</a>
+| <a href="http://goo.gl/e7dTfu">linkedin</a>
+| <a href="http://fr.slideshare.net/antoinecourtin">Slideshare</a>
 </div>
 
 
@@ -58,7 +62,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +91,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-

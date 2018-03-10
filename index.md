@@ -3,7 +3,7 @@ layout: cv
 title: CV - Antoine Courtin
 ---
 # Antoine Courtin
-Ingénierie documentaire, humanités numériques, histoire de l'art. 
+Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
 <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
@@ -18,16 +18,12 @@ Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 ## Actuellement
 
-Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art :art:
+Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art
 
 ## Compétences
 
 > Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire et archivistique ; Formats de description et d'échanges des métadonnées ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Datavisualisation
 
-
-## Centre d'intérêts
-
-\#OpenGLAM \#LODLAM \#food \#CulturalHeritage \#CulturalHeritage
 
 ## Activités professionnelles
 ### Activité principale
@@ -35,7 +31,7 @@ Responsable de la Cellule d'Ingénierie documentaire à Institut national d'hist
 `2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
-- Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institutions
+- Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institution.
 
 `2013-2015`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)
@@ -218,7 +214,7 @@ __Tableau périodique (ou pas) des outils/ressources pour les humanités numéri
 - [Consulter](https://goo.gl/LI9nVj")
 
 
-## Formation
+## Formation :relaxed:
 
 `2008-2010`
 __Master "Nouvelles technologies appliquées aux sciences historiques"__
@@ -236,7 +232,9 @@ __Baccalauréat, section ES, mention assez bien__
 - Lycée Sainte-Odile, Lambersart
 
 
+## Centre d'intérêts
 
+\#OpenGLAM \#LODLAM \#food \#CulturalHeritage \#danse \#BandeDessinée #dataviz #CitizenScience
 
 ## Prix
 

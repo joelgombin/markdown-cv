@@ -35,6 +35,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Activités professionnelles
 ### Activité principale
+
 `1600`
 __Royal Mint__, London
 
@@ -80,18 +81,22 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Formations
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2010`
+__Master II "Nouvelles technologies appliquées aux sciences historiques__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Ecole nationale des chartes, Paris
 
-- Sizar
+`2005-2008`
+__Licence Histoire de l'art et archéologie__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Université Lille 3 - Charles-de-Gaulle
 
-- Fellow
+`2005`
+__Baccalauréat, section ES, mention assez bien__
+
+- Lycée Sainte-Odile, Lambersart
+
+
 
 
 ## Awards

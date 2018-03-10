@@ -6,7 +6,7 @@ title: CV - Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
-<a href="antoine.courtin@mac.com">antoine.courtin@mac.com</a>
+<a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
 | <a href="http://antoinecourtin.com/">Site web</a>
 | <a href="http://twitter.com/seeksanusername">Twitter</a>
 | <a href="https://medium.com/@seeksanusername">Blog Medium</a>
@@ -65,7 +65,7 @@ __Formateur "médiation numérique"__, Association des archivisites français (P
 __"Faciliateur" dans le cadre du projet WeViz__, Institut d'aménagement et d'urbanisme de la région Île-de-France (Paris)
 
 `2014`
-__Membre du comité Open Data à l'Université Paris Ouest Nanterre__, Paris
+__Membre du comité Open Data__, Université Paris Ouest Nanterre (Paris)
 
 
 
@@ -194,28 +194,28 @@ Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federat
 
 ### en 2018
 `Pro`
-__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+__Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques
 - [Consulter](https://ventesdantiques.inha.fr/")
 
 
 ### en 2017
 `Pro`
-__Webapp cartographique du RETIF__, Exploitation de données sous la forme d'une cartographie du répertoire des tableaux italiens dans les collections publiques françaises
+__Webapp cartographique du RETIF__. Exploitation de données sous la forme d'une cartographie du répertoire des tableaux italiens dans les collections publiques françaises
 - [Consulter](https://ventesdantiques.inha.fr/")
 
 `Perso`
-__BotInfocom__, Bot Twitter qui diffuse de faux titres d’articles/conférence en InfoCom aléatoirement générés
+__BotInfocom__. Bot Twitter qui diffuse de faux titres d’articles/conférence en InfoCom aléatoirement générés
 - [Consulter](https://twitter.com/search?q=%23botInfocom&src=typd")
 
 
 ### en 2016
 
 `Pro`
-__Webdocumentaire autour du portail de Conques__,
+__Webdocumentaire autour du portail de Conques__
 - [Consulter]( https://portail3d-conques.inha.fr/")
 
 `Perso`
-__Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__, Sélection éditorialisée d'outils DH
+__Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__. Sélection éditorialisée d'outils DH
 - [Consulter](https://goo.gl/LI9nVj")
 
 
@@ -250,5 +250,3 @@ Ministère de la Culture et de la Communication (Paris)
 <div id="footer">
 CV réalisé en markdown, hébergé sur gihtub. Template dispo <a href="ahttps://github.com/elipapa/markdown-cv">içi</a>. Mis à jour le 10 mars 2018.
 </div>
-
-

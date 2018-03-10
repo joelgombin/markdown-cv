@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Antoine Courtin
-Ingénierie documentaire, Mathematician, Cambridge professor.
+Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>

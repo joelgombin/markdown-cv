@@ -158,7 +158,8 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: white;
+background-color: #af0000;
 }
 
 #webaddress {

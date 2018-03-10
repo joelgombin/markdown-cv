@@ -7,15 +7,16 @@ Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
 <a href="antoine.courtin@mac.com">antoine.courtin@mac.com</a>
+| <a href="http://antoinecourtin.com/">Site web</a>
 | <a href="http://twitter.com/seeksanusername">Twitter</a>
 | <a href="https://medium.com/@seeksanusername">Blog Medium</a>
 | <a href="https://github.com/antoinecourtin">Github</a>
-| <a href="http://goo.gl/e7dTfu">linkedin</a>
+| <a href="https://www.linkedin.com/in/antoinecourtin/">linkedin</a>
 | <a href="http://fr.slideshare.net/antoinecourtin">Slideshare</a>
 </div>
 
 
-## Actuelleement
+## Actuellement
 
 Responsable de la Cellul d'Ingénierie documentaire
 
@@ -36,19 +37,19 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Activités professionnelles
 ### Activité principale
 
-`juillet 2015 - `
+`juil. 2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
 - toto
 - tata
 
-`octobre 2013 - juin 2013`
+`oct. 2013 - jui. 2013`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)
 
 - toto
 - tata
 
-`novembre 2010 - Septembre 2013`
+`nov. 2010 - sept. 2013`
 __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
 - toto
@@ -60,7 +61,10 @@ __Chef de projet / consultants__, Naoned Systemes (Nantes)
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto)
 
 `2016`
-__Membre du comité scientifique du Forum 2016 de l'AAF__, Association des archivisites français (Troyes)
+__Membre du comité scientifique du Forum 2016 de l'AAF__, Association des archivisites français (Paris)
+
+`2015 - 2018`
+__Formateur "médiation numérique"__, Association des archivisites français (Paris)
 
 `2014`
 __"Faciliateur" dans le cadre du projet WeViz__, Institut d'aménagement et d'urbanisme de la région Île-de-France (Paris)
@@ -68,18 +72,30 @@ __"Faciliateur" dans le cadre du projet WeViz__, Institut d'aménagement et d'ur
 `2014`
 __Membre du comité Open Data à l'Université Paris Ouest Nanterre__, Paris
 
+
+
 ### Enseignements
 `2018`
 __Master MEDAS : eco-système du linkedopendata culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris)
 
 `2018`
-__Master MEDAS : eco-système du linkedopendata culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris)
+__Masters 2 Histoire de l'Art : Initiation aux pratiques numériques en histoire de l'art (2x 3h30)__, Université de Bourgogne (Dijon)
 
 `2017-2018`
 __Master Gestionnaire de l'information : initiation XML + pratique autour de l'exploitation de données (4x3h)__, École de bibliothécaires-documentalistes (Paris)
 
+`2013-2015`
+__Master Métiers des archives et technologies appliquées : Initiation à l'XML dans le contexte patrimonial (18h)__, Université Picardie Jules Verne	(Amiens)
+
+
 
 ## Interventions
+
+
+
+
+
+
 
 ## Publications
 
@@ -95,14 +111,8 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-
-## Formations
+## Formation
 
 `2008-2010`
 __Master "Nouvelles technologies appliquées aux sciences historiques"__
@@ -122,12 +132,11 @@ __Baccalauréat, section ES, mention assez bien__
 
 
 
-## Awards
+## Prix
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2013`
+Grand Prix *DataCulture*
+Ministère de la Culture et de la Communication (Paris)
 
 
 

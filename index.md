@@ -145,24 +145,23 @@ __Crowdsourcing dans les institutions culturelles__, Master « Histoire et méti
 `30/11/2015`
 __Data, méthodes quantitatives, visualisation, stats… Brève introduction appliquée aux GLAMs__, Master Muséologie de Sorbonne Paris 3 (Paris)
 
-
-`30 septembre 2015`
+`30/10/2015`
 __Appropriation de l’espace numérique par les institutions culturelles: exposition des données et offre de services de médiation__, Congrès ABDU (Besançon)
 
-`22 septembre 2015`
+`22/10/2015`
 __Les bases de recherche en histoire de l'art : perspectives d'avenir pour Agorha dans le web de données__, journée professionnelle organisée par le MCC "Les musées de France face aux nouveaux enjeux du numérique" (Paris)
 
-`24 avril 2015`
+`24/04/2015`
 __Analyzing Social Network Interactions in Cultural Fields__, 1st International Conference on Twitter for Research (Lyon)
 
-`22 janvier 2015`
+`22/01/2015`
 __Musées et data: De l’exposition des données patrimoniales à l’analyse des données sur les réseaux sociaux numériques__, Journée FULBI au CNAM (Paris)
 
-`11 novembre 2014`
+`11/11/2014`
 __A Tool-based Methodology to Analyze Social Network Interactions in Cultural Fields: the usecase MuseumWeek__, DYAD - Interaction and Exchange in Social Media (Barcelone)
 
 
-`14 août 2014`
+`14/10/2014`
 __Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef__, IFLA 2014 Satellite Meeting "Linked Data in Libraries: Let's make it happen!" (Paris)
 
 
@@ -249,9 +248,7 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-CV réalisé en markdown, hébergé sur gihtub. Template dispo <a href="ahttps://github.com/elipapa/markdown-cv">içi</a>
+CV réalisé en markdown, hébergé sur gihtub. Template dispo <a href="ahttps://github.com/elipapa/markdown-cv">içi</a>. Mis à jour le 10 mars 2018.
 </div>
 
-<!-- ### Footer
 
-Last updated: May 2018 -->

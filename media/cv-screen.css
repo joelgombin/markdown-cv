@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	color=#24292e;
 }
 ol, ul {
 	list-style: none;
@@ -187,6 +188,7 @@ a:hover {
 em {
 	font-weight: bold;
 	font-style: italic;
+	color: #aa1f33;
 }
 
 strong {

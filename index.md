@@ -18,16 +18,16 @@ Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 ## Actuellement
 
-Responsable de la Cellul d'Ingénierie documentaire [Institut national d'histoire de l'art]
+Responsable de la Cellul d'Ingénierie documentaire à Institut national d'histoire de l'art
 
 ## Compétences
 
-Ingénierie documentaire, Conduite de projet, Veille scientifique, normative et technique, Traitement documentaire et archivistique, Formats de description et d'échanges des métadonnées, Modélisation de l'information patrimoniale, Web de données, Intégration web (HTML5, CSS, javascript, CMS), Analyse instrumentée des réseaux sociaux numérique, Datavisualisation
+Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire et archivistique ; Formats de description et d'échanges des métadonnées ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Datavisualisation
 
 
 ## Centre d'intérêts
 
-\#OpenGLAM \#LODLAM
+\#OpenGLAM \#LODLAM \#food
 
 ## Activités professionnelles
 ### Activité principale
@@ -174,21 +174,30 @@ __Methodological Proposals for Designing Federative Platforms in Cultural Linked
 ### Chapitre d'ouvrage
 
 `2017`
-Antoine Courtin, Jean-Luc Minel. Propositions méthodologiques pour la conception et la réalisation d'entrepôts ancrés dans le Web de données. Brigitte Juanals et Jean-Luc Minel. Enjeux numériques pour les médiation scientifiques et culturelles du passé, Presses Universitaires de Paris Nanterre, 2017, Notions et méthodes, 978-2-84016-1.
+Antoine Courtin, Jean-Luc Minel. *Propositions méthodologiques pour la conception et la réalisation d'entrepôts ancrés dans le Web de données* in Enjeux numériques pour les médiation scientifiques et culturelles du passé, Presses Universitaires de Paris Nanterre, 2017, Notions et méthodes, 978-2-84016-1.
 
 `2015`
-Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop.
+Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”*. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop.
 
 ### Articles
 
 `2018`
-Sébastien Biay, Antoine Courtin, Isabelle Marchsein. L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image, Archeologia e Calcolatori», Supplement 10, 2018. A paraitre
+Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori», Supplement 10, 2018. A paraitre
 
 `2017`
-Antoine Courtin, Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms, Artl@s Bulletin 6, n°2, 2017
+Antoine Courtin. *Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms*, Artl@s Bulletin 6, n°2, 2017
 
 `2014`
-Antoine Courtin, Jean-Luc Minel. Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
+Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
+
+
+## Participation aux projets
+
+### en 2018
+`Pro`
+__Sur la piste des œuvres antiques__, Datavisualisation interactive des données du répertoire des ventes d'antiques
+
+- <a href="https://ventesdantiques.inha.fr/">Consulter</a>
 
 
 ## Formation

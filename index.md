@@ -18,7 +18,7 @@ Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 ## Actuellement
 
-Responsable de la Cellul d'Ingénierie documentaire à Institut national d'histoire de l'art
+Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art
 
 ## Compétences
 
@@ -27,7 +27,7 @@ Responsable de la Cellul d'Ingénierie documentaire à Institut national d'histo
 
 ## Centre d'intérêts
 
-\#OpenGLAM \#LODLAM \#food \#danse
+\#OpenGLAM \#LODLAM \#food
 
 ## Activités professionnelles
 ### Activité principale

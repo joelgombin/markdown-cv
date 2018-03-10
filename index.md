@@ -18,16 +18,12 @@ Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 ## Actuellement
 
-Responsable de la Cellul d'Ingénierie documentaire
-
-Département des études et de la recherche
-
-Institut national d'histoire de l'art (INHA)
+Responsable de la Cellul d'Ingénierie documentaire [Institut national d'histoire de l'art]
 
 ## Compétences
 
 Ingénierie documentaire, Conduite de projet, Veille scientifique, normative et technique, Traitement documentaire et archivistique, Formats de description et d'échanges des métadonnées, Modélisation de l'information patrimoniale, Web de données, Intégration web (HTML5, CSS, javascript, CMS), Analyse instrumentée des réseaux sociaux numérique, Datavisualisation
- 
+
 
 ## Centre d'intérêts
 

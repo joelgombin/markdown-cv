@@ -26,13 +26,12 @@ Institut national d'histoire de l'art (INHA)
 
 ## Compétences
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Ingénierie documentaire, Conduite de projet, Veille scientifique, normative et technique, Traitement documentaire et archivistique, Formats de description et d'échanges des métadonnées, Modélisation de l'information patrimoniale, Web de données, Intégration web (HTML5, CSS, javascript, CMS), Analyse instrumentée des réseaux sociaux numérique, Datavisualisation
+ 
 
 ## Centre d'intérêts
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+\#OpenGLAM \#LODLAM
 
 ## Activités professionnelles
 ### Activité principale
@@ -40,20 +39,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `juil. 2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
-- toto
-- tata
+- Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche
+- co-organisateur des #LundisNum
 
 `oct. 2013 - jui. 2013`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)
 
-- toto
-- tata
+- Récolte et analyse des besoins des producteurs de données partenaires du Labex
+- Veille métiers du patrimoine et nouvelles technologies (réalisation d'un blog de veille)
 
 `nov. 2010 - sept. 2013`
 __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
-- toto
-- tata
+- Pilotage des équipes de développement et de consultants fonctionnels
+- Conception fonctionnelle générale et détaillée des nouvelles fonctionnalités pour un logiciel de gestion d'archives
 
 ### Autres activités
 
@@ -175,17 +174,25 @@ __Methodological Proposals for Designing Federative Platforms in Cultural Linked
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Chapitre d'ouvrage
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+`2017`
+Antoine Courtin, Jean-Luc Minel. Propositions méthodologiques pour la conception et la réalisation d'entrepôts ancrés dans le Web de données. Brigitte Juanals et Jean-Luc Minel. Enjeux numériques pour les médiation scientifiques et culturelles du passé, Presses Universitaires de Paris Nanterre, 2017, Notions et méthodes, 978-2-84016-1.
 
-`1669`
-Lectiones opticæ.
+`2015`
+Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop.
 
-etc. etc. etc.
+### Articles
+
+`2018`
+Sébastien Biay, Antoine Courtin, Isabelle Marchsein. L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image, Archeologia e Calcolatori», Supplement 10, 2018. A paraitre
+
+`2017`
+Antoine Courtin, Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms, Artl@s Bulletin 6, n°2, 2017
+
+`2014`
+Antoine Courtin, Jean-Luc Minel. Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
 
 
 ## Formation

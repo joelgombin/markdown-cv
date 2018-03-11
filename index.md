@@ -219,8 +219,8 @@ __Tableau périodique (ou pas) des outils/ressources pour les humanités numéri
 ### avant 2016
 
 `Perso`
-__Créateur de http://museogeeks.com plateforme qui développe les initiatives dites "museogeeks" (carte, graphe, etc.)__
-- [Consulter](http://museogeeks.com/)
+__Créateur de [http://museogeeks.com](http://museogeeks.com/) plateforme qui développe les initiatives dites "museogeeks" (carte, graphe, etc.)__
+- [http://museogeeks.com](http://museogeeks.com/)
 
 
 `Perso`

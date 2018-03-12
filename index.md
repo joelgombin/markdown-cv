@@ -213,22 +213,22 @@ __Co-pilotage du #DataSprint du Forum d'Association des archivistes français__.
 
 `Pro`
 __Webdocumentaire autour du portail de Conques__. Webdocumentaire qui utilise un modèle 3D du portail de Conques.
-- [Consulter]( https://portail3d-conques.inha.fr/)
+- https://portail3d-conques.inha.fr/
 
 `Perso`
 __Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__. Sélection éditorialisée d'outils utiles pour des projets en digital humanities.
-- [Consulter](https://goo.gl/LI9nVj)
+- https://goo.gl/LI9nVj
 
 
 ### avant 2016
 
 `Perso`
-__Créateur de [http://museogeeks.com](http://museogeeks.com/) plateforme qui détaille les initiatives dites "museogeeks" (carte, graphe, etc.)__
-- [http://museogeeks.com](http://museogeeks.com/)
+__Créateur d'une plateforme qui détaille les initiatives dites "museogeeks" (carte, graphe, etc.)__
+- http://museogeeks.com/
 
 `Perso`
 __Co-organisateur de Museomix au Château des ducs de Bretagne – Musée d’histoire de Nantes (2013)__
-- [Consulter]( http://www.museomix.org/editions/2013/nantes-2013)
+- http://www.museomix.org/editions/2013/nantes-2013
 
 
 

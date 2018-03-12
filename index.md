@@ -206,6 +206,11 @@ __BotInfocom__. Bot Twitter qui diffuse de faux titres d’articles/conférences
 
 ### en 2016
 
+`Perso`
+__Co-pilotage du #DataSprint du Forum d'Association des archivistes français__. Organisation d'un évènement pour promouvoir l'Open data dans le milieu des archives.
+- [Consulter](http://datasprint.forum2016.archivistes.org/)
+
+
 `Pro`
 __Webdocumentaire autour du portail de Conques__. Webdocumentaire qui utilise un modèle 3D du portail de Conques.
 - [Consulter]( https://portail3d-conques.inha.fr/)

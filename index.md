@@ -4,6 +4,7 @@ title: CV - Antoine Courtin
 ---
 # Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art.
+CV en ligne http://antoinecourtin.com
 
 <div id="webaddress">
 Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
@@ -13,6 +14,8 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 | <a href="https://www.linkedin.com/in/antoinecourtin/">linkedin</a>
 | <a href="http://fr.slideshare.net/antoinecourtin">Slideshare</a>
 </div>
+
+
 
 
 ## Actuellement
@@ -88,15 +91,15 @@ __La base de données du Répertoire des ventes d’antiques : état de la reche
 
 
 `O4/11/2017`
-__Introduction à la visualisations de données en LSHS__, "Kit de survie en milieu numérique pour l’étudiant en SHS" (Paris).
+__Introduction à la visualisations de données en LSHS__, « Kit de survie en milieu numérique pour l’étudiant en SHS », INHA (Paris).
 
 
 `20/09/2017`
-__Focus sur l’OpenData dans le champs culturel__, Rencontre professionnelle "Open Data et Culture", Digital Week (Nantes).
+__Focus sur l’OpenData dans le champs culturel__, « Rencontre professionnelle Open Data et Culture », Digital Week (Nantes).
 
 
 `21/06/2017`
-__Faire de la classe un laboratoire d’humanisme digital__, Séminaire " Les enjeux des humanités numériques à l'école, Atelier Canopé (Créteil).
+__Faire de la classe un laboratoire d’humanisme digital__, Séminaire « Les enjeux des humanités numériques à l'école », Atelier Canopé (Créteil).
 
 
 `06/04/2017`
@@ -110,31 +113,32 @@ __Au-delà du web sémantique, une culture de la donnée : expérimentations d'i
 
 
 `29/11/2016`
-__La Vie parisienne dans AGORHA: méthodologie, consultation et évolutions techniques__, Institut national d'histoire de l'art (Paris).
+__La Vie parisienne dans AGORHA: méthodologie, consultation et évolutions techniques__, INHA (Paris).
 
 `27/09/2016`
-__Les portails romans de France en 3D, webdocumentaire et publication__, Institut national d'histoire de l'art (Paris).
+__Les portails romans de France en 3D, webdocumentaire et publication__, INHA (Paris).
 
 `24/06/2016`
-__Animation de la table ronde interprofessionnelle Quelle ouverture pour quelles données ?__, Journée "AFNOR/BnF (Paris).
+__Animation de la table ronde interprofessionnelle Quelle ouverture pour quelles données ?__, « Journée AFNOR/BnF »(Paris).
 
 `23/06/2016`
-__L’ère de la data: acquisition, nettoyage et visualisation des données en SHS__, Atelier ADEMEC (Paris).
+__L’ère de la data: acquisition, nettoyage et visualisation des données en SHS__, Atelier de l'association des diplômés et des étudiants de master de l'Ecole des chartes, Ecole national des chartes, (Paris).
 
 `14/06/2016`
-__Quelles ressources documentaires pour l’INHA? Missions institutionnelles et expérimentations numériques__, Journée d'étude "DAH@INHA: Une rencontre autour de la Digital Art History", INHA (Paris).
+__Quelles ressources documentaires pour l’INHA? Missions institutionnelles et expérimentations numériques__, Journée d'étude 
+« DAH@INHA: Une rencontre autour de la Digital Art History », INHA (Paris).
 
 `09/06/2016`
-__OpenRefine : traitement de données en masse en histoire de l'art__, Atelier "Les TIC et l'art" d'InVisu (Paris).
+__OpenRefine : traitement de données en masse en histoire de l'art__, Atelier « Les TIC et l'art » d'InVisu (Paris).
 
 `13/04/2016`
-__Le Dictionnaire des élèves-architectes à l'école des beaux-arts (1800-1968) à l’heure du web de données, interconnexion et visualisation__, Journée d'étude "Constuire l'histoire des architectes: autour du dictionnaire des élèves-architectes (Paris).
+__Le Dictionnaire des élèves-architectes à l'école des beaux-arts (1800-1968) à l’heure du web de données, interconnexion et visualisation__, Journée d'étude « Constuire l'histoire des architectes: autour du dictionnaire des élèves-architectes » (Paris).
 
 `30/03/2016`
 __Archiver le web social: quelle méthode pour quels objectifs__, Forum de l'association des archivistes français (Troyes).
 
 `04/12/2015`
-__Crowdsourcing dans les institutions culturelles__, Master « Histoire et métiers des archives et des bibliothèques (Angers).
+__Crowdsourcing dans les institutions culturelles__, Master « Histoire et métiers des archives et des bibliothèques »  (Angers).
 
 `30/11/2015`
 __Data, méthodes quantitatives, visualisation, stats… Brève introduction appliquée aux GLAMs__, Master Muséologie de Sorbonne Paris 3 (Paris).
@@ -143,20 +147,20 @@ __Data, méthodes quantitatives, visualisation, stats… Brève introduction app
 __Appropriation de l’espace numérique par les institutions culturelles: exposition des données et offre de services de médiation__, Congrès ABDU (Besançon).
 
 `22/10/2015`
-__Les bases de recherche en histoire de l'art : perspectives d'avenir pour Agorha dans le web de données__, journée professionnelle organisée par le MCC "Les musées de France face aux nouveaux enjeux du numérique" (Paris).
+__Les bases de recherche en histoire de l'art : perspectives d'avenir pour Agorha dans le web de données__, «Les musées de France face aux nouveaux enjeux du numérique », Ministère de la Culture et de la Communication (Paris).
 
 `24/04/2015`
 __Analyzing Social Network Interactions in Cultural Fields (Poster)__, 1st International Conference on Twitter for Research (Lyon).
 
 `22/01/2015`
-__Musées et data: De l’exposition des données patrimoniales à l’analyse des données sur les réseaux sociaux numériques__, Journée FULBI au CNAM (Paris).
+__Musées et data: De l’exposition des données patrimoniales à l’analyse des données sur les réseaux sociaux numériques__, Journée FULBI, CNAM (Paris).
 
 `11/11/2014`
 __A Tool-based Methodology to Analyze Social Network Interactions in Cultural Fields: the usecase MuseumWeek__, DYAD - Interaction and Exchange in Social Media (Barcelone).
 
 
 `14/10/2014`
-__Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef__, IFLA 2014 Satellite Meeting "Linked Data in Libraries: Let's make it happen!" (Paris).
+__Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef__, IFLA 2014 Satellite Meeting « Linked Data in Libraries: Let's make it happen! », Bibliothèque nationale de France (Paris).
 
 
 

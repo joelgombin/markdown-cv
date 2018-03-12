@@ -7,7 +7,7 @@ Ingénierie documentaire, humanités numériques, histoire de l'art
 <div id="webaddress">
 CV à consulter en ligne : http://antoinecourtin.com (rédigé en markdown, hébergé sur gihtub)
 
-[Télécharger le CV en PDF](https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf)
+<a href="https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf">[Télécharger le CV en PDF]</a>
 </div>
 <div id="webaddress">
 [Télécharger le CV en PDF](https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf)

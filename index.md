@@ -3,7 +3,7 @@ layout: cv
 title: CV - Antoine Courtin
 ---
 # Antoine Courtin
-Ingénierie documentaire, humanités numériques, histoire de l'art.
+Ingénierie documentaire, humanités numériques, histoire de l'art
 <div id="webaddress">
 CV à consulter en ligne : http://antoinecourtin.com
 </div>
@@ -21,11 +21,11 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 ## Actuellement
 
-Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art
+Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art.
 
 ## Compétences
 
-> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire et archivistique ; Formats de description et d'échanges des métadonnées ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Datavisualisation
+> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire et archivistique ; Formats de description et d'échanges des métadonnées ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Datavisualisation.
 
 
 ## Activités professionnelles

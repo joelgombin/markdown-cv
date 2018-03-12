@@ -10,6 +10,9 @@ CV à consulter en ligne : http://antoinecourtin.com (rédigé en markdown, héb
 [Télécharger le CV en PDF](https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf)
 </div>
 <div id="webaddress">
+[Télécharger le CV en PDF](https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf)
+</div>
+<div id="webaddress">
 Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
 | <a href="http://twitter.com/seeksanusername">Twitter</a>
 | <a href="https://medium.com/@seeksanusername">Blog Medium</a>

@@ -4,8 +4,9 @@ title: CV - Antoine Courtin
 ---
 # Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art.
-CV en ligne http://antoinecourtin.com
-
+<div id="webaddress">
+<a href="http://antoinecourtin.com">CV à consulter en ligne </a>
+</div>
 <div id="webaddress">
 Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
 | <a href="http://twitter.com/seeksanusername">Twitter</a>

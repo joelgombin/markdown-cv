@@ -6,7 +6,7 @@ title: CV - Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art.
 
 <div id="webaddress">
-<a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
+Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
 | <a href="http://twitter.com/seeksanusername">Twitter</a>
 | <a href="https://medium.com/@seeksanusername">Blog Medium</a>
 | <a href="https://github.com/antoinecourtin">Github</a>

@@ -6,6 +6,8 @@ title: CV - Antoine Courtin
 Ingénierie documentaire, humanités numériques, histoire de l'art
 <div id="webaddress">
 CV à consulter en ligne : http://antoinecourtin.com (rédigé en markdown, hébergé sur gihtub)
+
+[Télécharger le CV en PDF](https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf)
 </div>
 <div id="webaddress">
 Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
@@ -17,7 +19,7 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 </div>
 
 
-[Télécharger le CV en PDF](https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf)
+
 
 
 

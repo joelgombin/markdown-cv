@@ -175,6 +175,19 @@ a:hover {
 	text-decoration: none;
 }
 
+#footer {
+	margin-top: 3em;
+	margin-bottom: 3em;
+	position: relative;
+	left: 33%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+}
+#footer a {
+	text-decoration: none;
+}
+
 em {
 	font-style: normal;
 	color: #2d4e5e 

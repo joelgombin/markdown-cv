@@ -56,6 +56,9 @@ __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
 ### Autres activités
 
+`2018`
+ __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
+
 `2017`
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto).
 

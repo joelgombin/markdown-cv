@@ -279,5 +279,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le 10 mars 2018.
+Mis à jour le 19 avril 2018.
 </div>

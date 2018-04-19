@@ -41,6 +41,8 @@ Responsable de la Cellule d'Ingénierie documentaire à Institut national d'hist
 __Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
 
 - Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institution.
+- Animer les questions liées au numérique dans les programmes de recherche en histoire de l'art
+- Co-organisateur du cyle les Lundis numérique de l'INHA (10 séances par an). [Consulter les captations vidéo](https://www.youtube.com/playlist?list=PLsl8NWzVv6T2CQFtBOfnlA_EKLFeCFSUG)
 
 `2013-2015`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)

@@ -194,10 +194,10 @@ Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *To
 ### Articles
 
 `2018`
-Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori», Supplement 10, 2018. A paraître.
+Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori, Supplement 10, 2018. A paraître.
 
 `2017`
-Antoine Courtin, Léa Saint­Raymond, Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms, Artl@s Bulletin 6, n°2, 2017.
+Antoine Courtin, Léa Saint-Raymond, *Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms*, Artl@s Bulletin 6, n°2, 2017.
 
 `2014`
 Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.

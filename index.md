@@ -199,6 +199,9 @@ Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medi
 `2017`
 Antoine Courtin, Léa Saint-Raymond, *Visualizing the social network for the art auctions in Paris (1852-1914) : How to enrich an initial corpus thanks to linked Open Data Platforms*, Artl@s Bulletin 6, n°2, 2017.
 
+`2016`
+Nicolas Foucault, Antoine Courtin. *Automatic Classification of Tweets for Analyzing Communication Behavior of Museums*. Tenth International Conference on Language Resources and Evaluation (LREC 2016), May 2016, Portorož, Slovenia. 2016, Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). [〈hal-01758645〉](https://hal.archives-ouvertes.fr/hal-01758645)
+
 `2014`
 Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
 

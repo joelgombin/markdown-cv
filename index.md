@@ -189,7 +189,7 @@ Antoine Courtin. *Cartographie sémantique* , *Open data* in 100 notions pour la
 Antoine Courtin, Jean-Luc Minel. *Propositions méthodologiques pour la conception et la réalisation d'entrepôts ancrés dans le Web de données* in Enjeux numériques pour les médiation scientifiques et culturelles du passé, Presses Universitaires de Paris Nanterre, 2017, Notions et méthodes, 978-2-84016-1.
 
 `2015`
-Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”*. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop.
+Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”*. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop. [〈hal-01075432〉](https://hal.archives-ouvertes.fr/hal-01075432)
 
 ### Articles
 
@@ -203,7 +203,7 @@ Antoine Courtin, Léa Saint-Raymond, *Visualizing the social network for the art
 Nicolas Foucault, Antoine Courtin. *Automatic Classification of Tweets for Analyzing Communication Behavior of Museums*. Tenth International Conference on Language Resources and Evaluation (LREC 2016), May 2016, Portorož, Slovenia. 2016, Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). [〈hal-01758645〉](https://hal.archives-ouvertes.fr/hal-01758645)
 
 `2014`
-Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.
+Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.[〈hal-01070798〉](https://hal.archives-ouvertes.fr/hal-01070798)
 
 
 

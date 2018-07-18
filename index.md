@@ -100,6 +100,10 @@ __La base de données du Répertoire des ventes d’antiques : état de la reche
 __Introduction à la visualisations de données en LSHS__, « Kit de survie en milieu numérique pour l’étudiant en SHS », INHA (Paris).
 
 
+`14/10/2017`
+__Quel renouvellement des formes de collaboration entre chercheurs et institutions patrimoniales?__, participation à la table ronde, Journée d'étude organisée par l'Association des Diplômés et des Étudiants du Master de l’École des chartes à l’École nationale des chartes (Paris).
+
+
 `20/09/2017`
 __Focus sur l’OpenData dans le champs culturel__, « Rencontre professionnelle Open Data et Culture », Digital Week (Nantes).
 

@@ -23,6 +23,7 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 ## Actuellement
 
 Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art.
+
 Maitre de conférence associé à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
 ## Compétences

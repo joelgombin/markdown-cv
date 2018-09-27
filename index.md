@@ -83,7 +83,7 @@ __Membre du comité Open Data__, Université Paris Ouest Nanterre (Paris).
 
 ### Enseignements
 `2018`
-__Master MEDAS : eco-système du linkedopendata culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris).
+__Master MEDAS : éco-système du linked open data culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris).
 
 `2018`
 __Masters 2 Histoire de l'Art : Initiation aux pratiques numériques en histoire de l'art (2x 3h30)__, Université de Bourgogne (Dijon).

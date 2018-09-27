@@ -33,8 +33,15 @@ Maitre de conférence associé à l'Université Paris Nanterre, rattaché au lab
 ## Activités professionnelles
 ### Activité principale
 
+`2018 - `
+__Maitre de conférence associé en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
+
+- enseignement en licence Information-communication et Master DEFI, UFR PHILLIA
+- memmbre associé au laboratoire Dicent ((Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
+
+
 `2015 - `
-__Responsable de la Cellule d'ingénierie documentaire__, INHA (Paris)
+__Responsable de la Cellule d'ingénierie documentaire__, Institut national d'histoire de l'art (Paris)
 
 - Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institution.
 - Animer les questions liées au numérique dans les programmes de recherche en histoire de l'art

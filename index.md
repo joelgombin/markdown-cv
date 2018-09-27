@@ -37,7 +37,7 @@ Maitre de conférence associé à l'Université Paris Nanterre, rattaché au lab
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
 - enseignement en licence Information-communication et Master DEFI, UFR PHILLIA
-- memmbre associé au laboratoire Dicent ((Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
+- membre associé au laboratoire Dicent ((Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
 
 
 `2015 - `
@@ -63,6 +63,7 @@ __Chef de projet / consultants__, Naoned Systemes (Nantes)
 
 `2018`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
+
 
 `2017`
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto).
@@ -220,6 +221,10 @@ Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federat
 `Pro`
 __Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques (dépouillement des catalogues de ventes au XIXe).
 - [Consulter](https://ventesdantiques.inha.fr/)
+
+`Perso`
+ __Participation à l'organisation du workshop "fabriquer des jeux de données en art» de l'association Humanistica__ (du28 au 30 mai 2018 à l'INHA)
+ - [Cponsulter les ressources réalisées sur GITHUB](https://github.com/Humanistica/ArtDesignDH)
 
 ### en 2017
 `Pro`

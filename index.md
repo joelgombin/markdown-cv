@@ -34,7 +34,7 @@ Maitre de conférence associé à l'Université Paris Nanterre, rattaché au lab
 ### Activité principale
 
 `2018 - `
-__Maitre de conférence associé en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
+__Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
 - enseignement en licence Information-communication et Master DEFI, UFR PHILLIA
 - memmbre associé au laboratoire Dicent ((Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/

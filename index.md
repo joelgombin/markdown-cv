@@ -71,6 +71,10 @@ __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Tor
 `2016`
 __Membre du comité scientifique du Forum 2016 de l'AAF__, Association des archivisites français (Paris).
 
+`2016`
+__Co-organisateur du colloque "DAH@INHA Une rencontre autour de la Digital Art History"__, Institut national d'histoire de l'art (Paris).
+
+
 `2015-2018`
 __Formateur "médiation numérique"__, Association des archivisites français (Paris).
 
@@ -294,5 +298,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le 19 avril 2018.
+Mis à jour le 6 octobre 2018.
 </div>

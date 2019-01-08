@@ -64,7 +64,6 @@ __Chef de projet / consultants__, Naoned Systemes (Nantes)
 `2018`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
 
-
 `2017`
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto).
 
@@ -103,8 +102,15 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 ## Interventions
 
+`26/11/2018`
+__Expérimenter autour des ventes d’antiques au XIXe siècle : de la mise en données à l’éditorialisation__, Colloque « Repenser les humanités numériques / Thinking the Digital Humanities Anew », Centre de recherche interuniversitaire sur les humanités numériques (Montréal).
+
+`23/11/2018`
+__Des métadonnées aux nouvelles pratiques scientifiques et culturelles__, Colloque « Images /Usages », , INHA (Paris).
+
+
 `05/03/2018`
-__Digitizing Art History & Computational Art History : Etat des lieux des pratiques et expérimentations__, Séminaire « L’art des données / les données de l’art », MESH (Lille).
+__Digitizing Art History & Computational Art History : Etat des lieux des pratiques et expérimentations__, Séminaire « L’art des données / les données de l’art », MESH (Lille).
 
 `26/01/2018`
 __La base de données du Répertoire des ventes d’antiques : état de la recherche et nouveaux enjeux numériques__, Journée d’étude « Les Antiques à l’épreuve du marteau », INHA (Paris).

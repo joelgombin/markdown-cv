@@ -308,5 +308,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le 6 octobre 2018.
+Mis à jour le 08 janvier 2019.
 </div>

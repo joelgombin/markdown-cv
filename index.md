@@ -22,9 +22,9 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 ## Actuellement
 
-Responsable de la Cellule d'Ingénierie documentaire à Institut national d'histoire de l'art.
+**Responsable de la Cellule d'Ingénierie documentaire** à Institut national d'histoire de l'art (INHA).
 
-Maitre de conférence associé à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
+**Maitre de conférence associé** à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
 ## Compétences
 
@@ -64,6 +64,10 @@ __Chef de projet / consultants__, Naoned Systemes (Nantes)
 `2018`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
 
+`2018`
+__Formateur__, Institut national de l'audiovisuel (Paris).
+
+
 `2017`
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto).
 
@@ -75,7 +79,7 @@ __Co-organisateur du colloque "DAH@INHA Une rencontre autour de la Digital Art H
 
 
 `2015-2018`
-__Formateur "médiation numérique"__, Association des archivisites français (Paris).
+__Formateur__, Association des archivisites français (Paris).
 
 `2014`
 __"Faciliateur" dans le cadre du projet WeViz__, Institut d'aménagement et d'urbanisme de la région Île-de-France (Paris).

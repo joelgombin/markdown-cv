@@ -314,5 +314,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le 08 janvier 2019.
+Mis à jour le mercredi 23 janvier 2019.
 </div>

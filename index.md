@@ -279,13 +279,18 @@ __Co-organisateur de Museomix au Château des ducs de Bretagne – Musée d’hi
 
 ## Formation
 
+`2013`
+__Certification du MOOC "ABC de la gestion de projet"__
+
+- Ecole central, Lille
+
 `2008-2010`
-__Master "Nouvelles technologies appliquées aux sciences historiques"__
+__Master "Nouvelles technologies appliquées aux sciences historiques", mention très bien__
 
 - Ecole nationale des chartes, Paris
 
 `2005-2008`
-__Licence Histoire de l'art et archéologie__
+__Licence Histoire de l'art et archéologie, mention bien__
 
 - Université Lille 3 - Charles-de-Gaulle
 

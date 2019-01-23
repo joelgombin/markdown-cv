@@ -36,21 +36,22 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 `2018 - `
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
-- enseignement en licence Information-communication et Master DEFI, UFR PHILLIA
-- membre associé au laboratoire Dicent ((Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
+- enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
+- membre associé au laboratoire Dicent (Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
 
 
 `2015 - `
 __Responsable de la Cellule d'ingénierie documentaire__, Institut national d'histoire de l'art (Paris)
 
 - Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institution.
-- Animer les questions liées au numérique dans les programmes de recherche en histoire de l'art
+- Animer les questions liées au numérique dans les programmes de recherche en histoire de l'art au Département des études et de la recherche.
 - Co-organisateur du cyle les Lundis numérique de l'INHA (10 séances par an). [Consulter les captations vidéo](https://www.youtube.com/playlist?list=PLsl8NWzVv6T2CQFtBOfnlA_EKLFeCFSUG)
 
 `2013-2015`
 __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, Labex Les passés dans le présent  (Paris)
 
 - Récolte et analyse des besoins des producteurs de données partenaires du Labex.
+- réalisation d'un chantier de production et de mise en ligne de données culturelles sémantisées.
 - Veille métiers du patrimoine et nouvelles technologies (réalisation d'un blog de veille).
 
 `2010-2013`

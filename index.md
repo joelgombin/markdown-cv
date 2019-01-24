@@ -91,6 +91,10 @@ __Membre du comité Open Data__, Université Paris Ouest Nanterre (Paris).
 
 
 ### Enseignements
+
+`2010`
+__Master DEFI et Licence InfoCom : structuration et nature de l'information, gestion de projet documentaire, pérenité des documents d'activités, etc. (96h)__, Université Paris Nanterre (Nanterre).
+
 `2018`
 __Master MEDAS : éco-système du linked open data culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris).
 

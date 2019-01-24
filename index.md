@@ -55,7 +55,7 @@ __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, L
 - Veille métiers du patrimoine et nouvelles technologies (réalisation d'un blog de veille).
 
 `2010-2013`
-__Chef de projet / consultants / responsable R&D __, Naoned Systemes (Nantes)
+__Chef de projet / consultants / responsable R&D__, Naoned Systemes (Nantes)
 
 - Pilotage des équipes de développement et de consultants fonctionnels pour des progiciels d'institutions culturelles (archives, musées, centres, etc.)
 - Conception fonctionnelle générale et détaillée des nouvelles fonctionnalités (expositions virtuelles, plugin de crowdsourcing, etc.)

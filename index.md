@@ -37,7 +37,7 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
 - enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
-- membre associé au laboratoire Dicent (Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
+- membre associé au laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
 
 
 `2015 - `
@@ -55,10 +55,11 @@ __Ingénieur d'étude "Modélisation, référentiels et culture numérique"__, L
 - Veille métiers du patrimoine et nouvelles technologies (réalisation d'un blog de veille).
 
 `2010-2013`
-__Chef de projet / consultants__, Naoned Systemes (Nantes)
+__Chef de projet / consultants / responsable R&D __, Naoned Systemes (Nantes)
 
-- Pilotage des équipes de développement et de consultants fonctionnels.
-- Conception fonctionnelle générale et détaillée des nouvelles fonctionnalités pour un logiciel de gestion d'archives.
+- Pilotage des équipes de développement et de consultants fonctionnels pour des progiciels d'institutions culturelles (archives, musées, centres, etc.)
+- Conception fonctionnelle générale et détaillée des nouvelles fonctionnalités (expositions virtuelles, plugin de crowdsourcing, etc.)
+- réalisation de formations auprès des usagers professionnels
 
 ### Autres activités
 

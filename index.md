@@ -110,14 +110,19 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 
 
-## Interventions
+## Interventions publiques
+
+`27/11/2019`
+__A quoi sert l'Open data__, Journée professionnelle « Patrimoine et numérique. Les rencontre de l'IESA», La Monnaie de Paris (Paris).
+
+`28/03/2019`
+__Les envois de Rome, base de données peinture et sculpture 1804-1914__, atelier de présentation, Institut national d'histoire de l'art (Paris).
 
 `26/11/2018`
 __Expérimenter autour des ventes d’antiques au XIXe siècle : de la mise en données à l’éditorialisation__, Colloque « Repenser les humanités numériques / Thinking the Digital Humanities Anew », Centre de recherche interuniversitaire sur les humanités numériques (Montréal).
 
 `23/11/2018`
-__Des métadonnées aux nouvelles pratiques scientifiques et culturelles__, Colloque « Images /Usages », , INHA (Paris).
-
+__Des métadonnées aux nouvelles pratiques scientifiques et culturelles__, Colloque « Images /Usages », animation d'une table ronde, INHA (Paris).
 
 `05/03/2018`
 __Digitizing Art History & Computational Art History : Etat des lieux des pratiques et expérimentations__, Séminaire « L’art des données / les données de l’art », MESH (Lille).
@@ -150,7 +155,6 @@ __un webdocumentaire pour une nouvelle forme de médiation__, Patrimoines et mé
 
 `12/12/2016`
 __Au-delà du web sémantique, une culture de la donnée : expérimentations d'interconnexion des données à l'INHA__, Ministère de la Culture et de la Communication (Paris).
-
 
 `29/11/2016`
 __La Vie parisienne dans AGORHA: méthodologie, consultation et évolutions techniques__, INHA (Paris).

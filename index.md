@@ -33,15 +33,15 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 ## Activités professionnelles
 ### Activité principale
 
+`2019 - `
+__Chef de service numérique de la recherche__, Institut national d'histoire de l'art (Paris)
+
+
 `2018 - `
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
 - enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
 - membre associé au laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
-
-`2019 - `
-__Chef de service numérique de la recherche__, Institut national d'histoire de l'art (Paris)
-
 
 `2015 - 2019`
 __Responsable de la Cellule d'ingénierie documentaire__, Institut national d'histoire de l'art (Paris)

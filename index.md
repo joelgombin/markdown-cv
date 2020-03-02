@@ -22,7 +22,7 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 ## Actuellement
 
-**Responsable de la Cellule d'Ingénierie documentaire** à Institut national d'histoire de l'art (INHA).
+**Chef du service numérique de la recherche** à Institut national d'histoire de l'art (INHA).
 
 **Maitre de conférence associé** à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
@@ -39,8 +39,11 @@ __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Un
 - enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
 - membre associé au laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
 
+`2019 - `
+__Chef de service numérique de la recherche__, Institut national d'histoire de l'art (Paris)
 
-`2015 - `
+
+`2015 - 2019`
 __Responsable de la Cellule d'ingénierie documentaire__, Institut national d'histoire de l'art (Paris)
 
 - Assurer la réalisation et la gestion des systèmes d'informations documentaires et des productions de valorisation des programmes de recherche de l'institution.

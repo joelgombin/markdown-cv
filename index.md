@@ -33,11 +33,11 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 ## Activités professionnelles
 ### Activité principale
 
-`2019 - `
+`2019 - / `
 __Chef de service numérique de la recherche__, Institut national d'histoire de l'art (Paris)
 
 
-`2018 - `
+`2018 - /`
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
 - enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
@@ -66,12 +66,11 @@ __Chef de projet / consultants / responsable R&D__, Naoned Systemes (Nantes)
 
 ### Autres activités
 
-`2018`
+`2018 - /`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
 
-`2018`
+`2018 - / `
 __Formateur__, Institut national de l'audiovisuel (Paris).
-
 
 `2017`
 __Membre du comité d’experts__, Fondation canadienne pour l’innovation (Toronto).
@@ -82,8 +81,7 @@ __Membre du comité scientifique du Forum 2016 de l'AAF__, Association des archi
 `2016`
 __Co-organisateur du colloque "DAH@INHA Une rencontre autour de la Digital Art History"__, Institut national d'histoire de l'art (Paris).
 
-
-`2015-2018`
+`2015- / `
 __Formateur__, Association des archivisites français (Paris).
 
 `2014`
@@ -93,19 +91,18 @@ __"Faciliateur" dans le cadre du projet WeViz__, Institut d'aménagement et d'ur
 __Membre du comité Open Data__, Université Paris Ouest Nanterre (Paris).
 
 
-
 ### Enseignements
 
-`2010`
+`2018 - /`
 __Master DEFI et Licence InfoCom : structuration et nature de l'information, gestion de projet documentaire, pérenité des documents d'activités, etc. (96h)__, Université Paris Nanterre (Nanterre).
+
+`2018 - /`
+__Masters 2 Histoire de l'Art : Initiation aux pratiques numériques en histoire de l'art (2x 3h30)__, Université de Bourgogne (Dijon).
 
 `2018`
 __Master MEDAS : éco-système du linked open data culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris).
 
-`2018`
-__Masters 2 Histoire de l'Art : Initiation aux pratiques numériques en histoire de l'art (2x 3h30)__, Université de Bourgogne (Dijon).
-
-`2017-2018`
+`2016-2018`
 __Master Gestionnaire de l'information : initiation XML + pratique autour de l'exploitation de données (4x3h)__, École de bibliothécaires-documentalistes (Paris).
 
 `2013-2015`
@@ -115,7 +112,13 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 ## Interventions publiques
 
-`27/11/2019`
+`17/02/2020`
+__Présentation des activités du service numérique de la recherche de l'INHA__, Atelier Datalab de la Bibliothèque national universitaire, Strasbourg.
+
+`18/10/2019`
+__Pour un regard à 360 degrés des corpus visuels : pratiques de mise à disposition et de réutilisation__, DHNord 2019,MESH, Lille, 18 octobre 2019. http://bit.ly/2RHduDb..
+
+`27/09/2019`
 __A quoi sert l'Open data__, Journée professionnelle « Patrimoine et numérique. Les rencontre de l'IESA», La Monnaie de Paris (Paris).
 
 `28/03/2019`
@@ -244,6 +247,23 @@ Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federat
 
 ## Sélection de projets
 
+### en 2020
+`Pro`
+__Mise en ligne du carnet de recherche du service numérique de la recherche de l'INHA__. Carnet méthodologique et de veille du Service numérique de la recherche de l’Institut national de l’histoire de l’art (Département des études et de la recherche) .
+- [Consulter](https://numrha.hypotheses.org/)
+
+
+### en 2019
+`Pro`
+__Ontologie du christianisme médiéval en images__. Encyclopédie visuelle de la pensée chrétienne dans l’Occident médiéval réalisé avec OmekaS.
+- [Consulter](https://omci.inha.fr/s/ocmi/page/accueil)
+
+`Person`
+__Bot Envois de Rome__. Je tweete des Envois de Rome issus de la base de données sous #AGORHA
+- [Consulter](https://twitter.com/envoisdeRomeBot)
+
+ 
+ https://twitter.com/envoisdeRomeBot
 ### en 2018
 `Pro`
 __Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques (dépouillement des catalogues de ventes au XIXe).

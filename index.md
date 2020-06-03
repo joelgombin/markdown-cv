@@ -258,7 +258,7 @@ __Mise en ligne du carnet de recherche du service numérique de la recherche de 
 __Ontologie du christianisme médiéval en images__. Encyclopédie visuelle de la pensée chrétienne dans l’Occident médiéval réalisé avec OmekaS.
 - [Consulter](https://omci.inha.fr/s/ocmi/page/accueil)
 
-`Person`
+`Perso`
 __Bot Envois de Rome__. Je tweete des Envois de Rome issus de la base de données sous #AGORHA
 - [Consulter](https://twitter.com/envoisdeRomeBot)
 

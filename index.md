@@ -66,6 +66,12 @@ __Chef de projet / consultants / responsable R&D__, Naoned Systemes (Nantes)
 
 ### Autres activités
 
+`2020 - /`
+ __Coordination avec Anne Klammt et Olivier Bonfait du n°86 de la revue Histoire de l'art "Les humanités numériques : de nouveaux récits en histoire de l’art "__ sortie prévue à l'été 2021.
+
+`2020 - /`
+ __Membre du comité de pilotage autour de la standardisation des registres des entrées en archives__ (projet piloté  par l'AAF, les archives nationales, le SIAF et Datactivist.
+
 `2018 - /`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
 

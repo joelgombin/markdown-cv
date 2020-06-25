@@ -352,5 +352,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le mercredi 23 janvier 2019.
+Mis à jour le mercredi 25 juin 2020.
 </div>

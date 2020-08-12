@@ -118,6 +118,11 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 ## Interventions publiques
 
+`05/03/2020`
+__Pour une approche outillée de l’analyse des usage(r)s sur les réseaux sociaux numériques : entre retours
+d’expériences, perspectives et limites__, Séminaire doctoral PARIS-MONTREAL 2019-2020 *Nouvelles perspectives dans l’approche des publics*, Ecole du Louvre.
+
+
 `17/02/2020`
 __Présentation des activités du service numérique de la recherche de l'INHA__, Atelier Datalab de la Bibliothèque national universitaire, Strasbourg.
 

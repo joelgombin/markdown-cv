@@ -8,7 +8,9 @@ Ingénierie documentaire, humanités numériques, histoire de l'art, gestion de 
  CV à consulter en ligne : <a href="https://antoinecourtin.github.io/markdown-cv/">https://antoinecourtin.github.io/markdown-cv/</a> (rédigé en markdown, hébergé sur gihtub)
 </div>
 <div id="webaddress">
-<a href="https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf">[Télécharger le CV en PDF]</a>
+<a href="https://antoinecourtin.github.io/markdown-cv/acourtin_curriculumVitae.pdf">[Télécharger le CV en PDF]</a> | <a href="https://orcid.org/0000-0003-0275-5143">ORCID</a>
+ 
+ 
 </div>
 <div id="webaddress">
 Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac.com</a>
@@ -17,6 +19,9 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 | <a href="https://github.com/antoinecourtin">Github</a>
 | <a href="https://www.linkedin.com/in/antoinecourtin/">linkedin</a>
 | <a href="http://fr.slideshare.net/antoinecourtin">Slideshare</a>
+ 
+ 
+ 
 </div>
 
 

@@ -31,9 +31,9 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 **Maitre de conférence associé** à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
-## Compétences
+## Compétences opérationelles
 
-> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire ; Formats de description et d'échanges des métadonnées culturelles ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; marchés publics ; Datavisualisation ; 
+> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire ; Formats de description et d'échanges des métadonnées culturelles ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Visualisation de l'inforamtion ; Gestion d'équipe ;
 
 
 ## Activités professionnelles
@@ -46,7 +46,7 @@ __Chef du service numérique de la recherche__, Institut national d'histoire de 
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
 - enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
-- membre associé au laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique) http://www.dicen-idf.org/membre/courtin-antoine/
+- membre associé au [laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique](http://www.dicen-idf.org/membre/courtin-antoine/)
 
 `2015 - 2019`
 __Responsable de la Cellule d'ingénierie documentaire__, Institut national d'histoire de l'art (Paris)

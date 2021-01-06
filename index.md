@@ -271,7 +271,7 @@ __Sur la piste des œuvres antiques__. Datavisualisation interactive des donnée
 
 `Perso`
  __Participation à l'organisation du workshop "fabriquer des jeux de données en art» de l'association Humanistica__ (du28 au 30 mai 2018 à l'INHA)
- - [Cponsulter les ressources réalisées sur GITHUB](https://github.com/Humanistica/ArtDesignDH)
+ - [Consulter les ressources réalisées sur GITHUB](https://github.com/Humanistica/ArtDesignDH)
 
 ### en 2017
 `Pro`

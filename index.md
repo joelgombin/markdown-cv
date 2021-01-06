@@ -44,7 +44,7 @@ __Chef du service numérique de la recherche__, Institut national d'histoire de 
 `2018 - /`
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
 
-* enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
+* Enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
 * membre associé au [laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique](http://www.dicen-idf.org/membre/courtin-antoine/)
 
 `2015 - 2019`

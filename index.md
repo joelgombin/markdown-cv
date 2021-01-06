@@ -76,10 +76,10 @@ __Chef de projet / consultants / responsable R&D__, Naoned Systemes (Nantes)
 `2020 - /`
  __Membre du comité de pilotage autour de la standardisation des registres des entrées en archives__ (projet piloté  par l'AAF, les archives nationales, le SIAF et Datactivist).
 
-`2018 - /`
+`2018 - 2020`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
 
-`2018 - / `
+`2018 - 2020`
 __Formateur__, Institut national de l'audiovisuel (Paris).
 
 `2017`

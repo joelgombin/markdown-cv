@@ -35,12 +35,12 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 > Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire ; Formats de description et d'échanges des métadonnées culturelles ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; marchés publics ; Datavisualisation ; 
 
+
 ## Activités professionnelles
 ### Activité principale
 
 `2019 - / `
-__Chef de service numérique de la recherche__, Institut national d'histoire de l'art (Paris)
-
+__Chef du service numérique de la recherche__, Institut national d'histoire de l'art (Paris). [Présentation du service](https://www.inha.fr/fr/recherche/le-departement-des-etudes-et-de-la-recherche/service-numerique-de-la-recherche.html)
 
 `2018 - /`
 __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Université Paris Nanterre (Nanterre)
@@ -75,7 +75,7 @@ __Chef de projet / consultants / responsable R&D__, Naoned Systemes (Nantes)
  __Coordination avec Anne Klammt et Olivier Bonfait du n°86 de la revue Histoire de l'art "Les humanités numériques : de nouveaux récits en histoire de l’art "__ sortie prévue à l'été 2021.
 
 `2020 - /`
- __Membre du comité de pilotage autour de la standardisation des registres des entrées en archives__ (projet piloté  par l'AAF, les archives nationales, le SIAF et Datactivist.
+ __Membre du comité de pilotage autour de la standardisation des registres des entrées en archives__ (projet piloté  par l'AAF, les archives nationales, le SIAF et Datactivist).
 
 `2018 - /`
  __Membre du comité Scientifique du projet « Data&Musée »__ (projet du Fonds unique interministériel (FUI) et labellisé par Cap Digital et Imaginove).
@@ -123,10 +123,12 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 ## Interventions publiques
 
+`09/12/2020`
+__Histoire de l’art et humanités numériques ?__, Séminaire de recherche du master « Humanités numériques » de l’École nationale des chartes.
+
 `05/03/2020`
 __Pour une approche outillée de l’analyse des usage(r)s sur les réseaux sociaux numériques : entre retours
 d’expériences, perspectives et limites__, Séminaire doctoral PARIS-MONTREAL 2019-2020 *Nouvelles perspectives dans l’approche des publics*, Ecole du Louvre.
-
 
 `17/02/2020`
 __Présentation des activités du service numérique de la recherche de l'INHA__, Atelier Datalab de la Bibliothèque national universitaire, Strasbourg.
@@ -152,22 +154,17 @@ __Digitizing Art History & Computational Art History : Etat des lieux des pratiq
 `26/01/2018`
 __La base de données du Répertoire des ventes d’antiques : état de la recherche et nouveaux enjeux numériques__, Journée d’étude « Les Antiques à l’épreuve du marteau », INHA (Paris).
 
-
 `O4/11/2017`
 __Introduction à la visualisations de données en LSHS__, « Kit de survie en milieu numérique pour l’étudiant en SHS », INHA (Paris).
-
 
 `14/10/2017`
 __Quel renouvellement des formes de collaboration entre chercheurs et institutions patrimoniales?__, participation à la table ronde, Journée d'étude organisée par l'Association des Diplômés et des Étudiants du Master de l’École des chartes à l’École nationale des chartes (Paris).
 
-
 `20/09/2017`
 __Focus sur l’OpenData dans le champs culturel__, « Rencontre professionnelle Open Data et Culture », Digital Week (Nantes).
 
-
 `21/06/2017`
 __Faire de la classe un laboratoire d’humanisme digital__, Séminaire « Les enjeux des humanités numériques à l'école », Atelier Canopé (Créteil).
-
 
 `06/04/2017`
 __L’archive éditorialisée: De la ressource originale à son appropriation__, Séminaire Écritures numériques - Dicen-IDF (Paris).
@@ -224,10 +221,8 @@ __Musées et data: De l’exposition des données patrimoniales à l’analyse d
 `11/11/2014`
 __A Tool-based Methodology to Analyze Social Network Interactions in Cultural Fields: the usecase MuseumWeek__, DYAD - Interaction and Exchange in Social Media (Barcelone).
 
-
 `14/10/2014`
 __Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef__, IFLA 2014 Satellite Meeting « Linked Data in Libraries: Let's make it happen! », Bibliothèque nationale de France (Paris).
-
 
 
 
@@ -362,5 +357,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le mercredi 25 juin 2020.
+Mis à jour le mercredi 6 janvier 2021.
 </div>

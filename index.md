@@ -35,7 +35,6 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 > Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire ; Formats de description et d'échanges des métadonnées culturelles ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Visualisation de l'inforamtion ; Gestion d'équipe ;
 
-
 ## Activités professionnelles
 ### Activité principale
 
@@ -118,8 +117,6 @@ __Master Gestionnaire de l'information : initiation XML + pratique autour de l'e
 
 `2013-2015`
 __Master Métiers des archives et technologies appliquées : Initiation à l'XML dans le contexte patrimonial (18h)__, Université Picardie Jules Verne	(Amiens).
-
-
 
 ## Interventions publiques
 
@@ -224,10 +221,7 @@ __A Tool-based Methodology to Analyze Social Network Interactions in Cultural Fi
 `14/10/2014`
 __Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef__, IFLA 2014 Satellite Meeting « Linked Data in Libraries: Let's make it happen! », Bibliothèque nationale de France (Paris).
 
-
-
 ## Publications
-
 
 ### Ouvrages collectifs
 
@@ -254,15 +248,12 @@ Nicolas Foucault, Antoine Courtin. *Automatic Classification of Tweets for Analy
 `2014`
 Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.[〈hal-01070798〉](https://hal.archives-ouvertes.fr/hal-01070798)
 
-
-
 ## Sélection de projets
 
 ### en 2020
 `Pro`
 __Mise en ligne du carnet de recherche du service numérique de la recherche de l'INHA__. Carnet méthodologique et de veille du Service numérique de la recherche de l’Institut national de l’histoire de l’art (Département des études et de la recherche) .
 - [Consulter](https://numrha.hypotheses.org/)
-
 
 ### en 2019
 `Pro`
@@ -273,8 +264,6 @@ __Ontologie du christianisme médiéval en images__. Encyclopédie visuelle de l
 __Bot Envois de Rome__. Je tweete des Envois de Rome issus de la base de données sous #AGORHA
 - [Consulter](https://twitter.com/envoisdeRomeBot)
 
- 
- https://twitter.com/envoisdeRomeBot
 ### en 2018
 `Pro`
 __Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques (dépouillement des catalogues de ventes au XIXe).
@@ -299,7 +288,6 @@ __BotInfocom__. Bot Twitter qui diffuse de faux titres d’articles/conférences
 __Co-pilotage du #DataSprint du Forum d'Association des archivistes français__. Organisation d'un évènement pour promouvoir l'Open data dans le milieu des archives.
 - [Consulter](http://datasprint.forum2016.archivistes.org/)
 
-
 `Pro`
 __Webdocumentaire autour du portail de Conques__. Webdocumentaire qui utilise un modèle 3D du portail de Conques.
 - [Consulter](https://portail3d-conques.inha.fr)
@@ -307,7 +295,6 @@ __Webdocumentaire autour du portail de Conques__. Webdocumentaire qui utilise un
 `Perso`
 __Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__. Sélection éditorialisée d'outils utiles pour des projets en digital humanities.
 - [Consulter](https://goo.gl/LI9nVj)
-
 
 ### avant 2016
 
@@ -318,8 +305,6 @@ __Créateur d'une plateforme qui détaille les initiatives dites "museogeeks" (c
 `Perso`
 __Co-organisateur de Museomix au Château des ducs de Bretagne – Musée d’histoire de Nantes (2013)__
 - [Consulter](http://www.museomix.org/editions/2013/nantes-2013)
-
-
 
 ## Formation
 

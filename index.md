@@ -120,6 +120,9 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 ## Interventions publiques
 
+`13/01/2021`
+__Edition numérique de sources enrichies le projet autour des papiers Barye__, Premières Assises de la recherche de la Galerie Colbert, Paris.
+
 `09/12/2020`
 __Histoire de l’art et humanités numériques ?__, Séminaire de recherche du master « Humanités numériques » de l’École nationale des chartes.
 
@@ -131,7 +134,7 @@ d’expériences, perspectives et limites__, Séminaire doctoral PARIS-MONTREAL 
 __Présentation des activités du service numérique de la recherche de l'INHA__, Atelier Datalab de la Bibliothèque national universitaire, Strasbourg.
 
 `18/10/2019`
-__Pour un regard à 360 degrés des corpus visuels : pratiques de mise à disposition et de réutilisation__, DHNord 2019,MESH, Lille, 18 octobre 2019. http://bit.ly/2RHduDb..
+__Pour un regard à 360 degrés des corpus visuels : pratiques de mise à disposition et de réutilisation__, DHNord 2019,MESH, Lille, 18 octobre 2019. http://bit.ly/2RHduDb.
 
 `27/09/2019`
 __A quoi sert l'Open data__, Journée professionnelle « Patrimoine et numérique. Les rencontre de l'IESA», La Monnaie de Paris (Paris).

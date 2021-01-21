@@ -120,8 +120,11 @@ __Master Métiers des archives et technologies appliquées : Initiation à l'XML
 
 ## Interventions publiques
 
+`21/01/2021`
+__La mise en données des envois de Rome: méthodologie et exploitations__, Avec France Lechleiter, Colloque "Académisme et formation artistique au XIXe siècle : les envois de Rome en question, INHA, Paris.
+
 `13/01/2021`
-__Edition numérique de sources enrichies le projet autour des papiers Barye__, Premières Assises de la recherche de la Galerie Colbert, Paris.
+__Edition numérique de sources enrichies le projet autour des papiers Barye__, Premières Assises de la recherche de la Galerie Colbert, INHA, Paris.
 
 `09/12/2020`
 __Histoire de l’art et humanités numériques ?__, Séminaire de recherche du master « Humanités numériques » de l’École nationale des chartes.

@@ -100,23 +100,89 @@ __"Faciliateur" dans le cadre du projet WeViz__, Institut d'aménagement et d'ur
 `2014`
 __Membre du comité Open Data__, Université Paris Ouest Nanterre (Paris).
 
+## Sélection de projets
 
-### Enseignements
+### 2018-2021
+`Pro`
+__Refondation du système documentaire AGORHA__. Rédaction, pilotage et réalisation d'un dialogue compétitif pour passer d'un progicile métier à un différentes briques logicielles (bdd noSQL + Elastic/Kibana pour la supervision + Ginko pour les thésaurus SKOS + Typo3 pour l'éditiorialisation + TALEND pour la reprise de données).
 
-`2018 - /`
-__Master DEFI et Licence InfoCom : structuration et nature de l'information, gestion de projet documentaire, pérenité des documents d'activités, etc. (96h)__, Université Paris Nanterre (Nanterre).
+### en 2020
+`Pro`
+__Mise en ligne du carnet de recherche du service numérique de la recherche de l'INHA__. Carnet méthodologique et de veille du Service numérique de la recherche de l’Institut national de l’histoire de l’art (Département des études et de la recherche) .
+- [Consulter](https://numrha.hypotheses.org/)
 
-`2018 - /`
-__Masters 2 Histoire de l'Art : Initiation aux pratiques numériques en histoire de l'art (2x 3h30)__, Université de Bourgogne (Dijon).
+### en 2019
+`Pro`
+__Ontologie du christianisme médiéval en images__. Encyclopédie visuelle de la pensée chrétienne dans l’Occident médiéval réalisé avec OmekaS.
+- [Consulter](https://omci.inha.fr/s/ocmi/page/accueil)
 
-`2018`
-__Master MEDAS : éco-système du linked open data culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris).
+`Perso`
+__Bot Envois de Rome__. Je tweete des Envois de Rome issus de la base de données sous #AGORHA
+- [Consulter](https://twitter.com/envoisdeRomeBot)
 
-`2016-2018`
-__Master Gestionnaire de l'information : initiation XML + pratique autour de l'exploitation de données (4x3h)__, École de bibliothécaires-documentalistes (Paris).
+### en 2018
+`Pro`
+__Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques (dépouillement des catalogues de ventes au XIXe).
+- [Consulter](https://ventesdantiques.inha.fr/)
 
-`2013-2015`
-__Master Métiers des archives et technologies appliquées : Initiation à l'XML dans le contexte patrimonial (18h)__, Université Picardie Jules Verne	(Amiens).
+`Perso`
+ __Participation à l'organisation du workshop "fabriquer des jeux de données en art» de l'association Humanistica__ (du28 au 30 mai 2018 à l'INHA)
+ - [Consulter les ressources réalisées sur GITHUB](https://github.com/Humanistica/ArtDesignDH)
+
+### en 2017
+`Pro`
+__Webapp cartographique du RETIF__. Exploitation de données sous la forme d'une cartographie du répertoire des tableaux italiens dans les collections publiques françaises.
+- [Consulter](https://ventesdantiques.inha.fr/)
+
+`Perso`
+__BotInfocom__. Bot Twitter qui diffuse de faux titres d’articles/conférences en InfoCom aléatoirement générés réalisé grâce à tracery.js 
+- [Consulter](https://twitter.com/search?q=%23botInfocom&src=typd)
+
+### en 2016
+
+`Perso`
+__Co-pilotage du #DataSprint du Forum d'Association des archivistes français__. Organisation d'un évènement pour promouvoir l'Open data dans le milieu des archives.
+- [Consulter](http://datasprint.forum2016.archivistes.org/)
+
+`Pro`
+__Webdocumentaire autour du portail de Conques__. Webdocumentaire qui utilise un modèle 3D du portail de Conques.
+- [Consulter](https://portail3d-conques.inha.fr)
+
+`Perso`
+__Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__. Sélection éditorialisée d'outils utiles pour des projets en digital humanities.
+- [Consulter](https://goo.gl/LI9nVj)
+
+### avant 2016
+
+`Perso`
+__Créateur d'une plateforme qui détaille les initiatives dites "museogeeks" (carte, graphe, etc.)__
+- [Consulter](http://museogeeks.com/)
+
+`Perso`
+__Co-organisateur de Museomix au Château des ducs de Bretagne – Musée d’histoire de Nantes (2013)__
+- [Consulter](http://www.museomix.org/editions/2013/nantes-2013)
+
+## Formation
+
+`2013`
+__Certification du MOOC "ABC de la gestion de projet"__
+
+- Ecole central, Lille
+
+`2008-2010`
+__Master "Nouvelles technologies appliquées aux sciences historiques", mention très bien__
+
+- Ecole nationale des chartes, Paris
+
+`2005-2008`
+__Licence Histoire de l'art et archéologie, mention bien__
+
+- Université Lille 3 - Charles-de-Gaulle
+
+`2005`
+__Baccalauréat, section ES, mention assez bien__
+
+- Lycée Sainte-Odile, Lambersart
 
 ## Interventions publiques
 
@@ -227,6 +293,24 @@ __A Tool-based Methodology to Analyze Social Network Interactions in Cultural Fi
 `14/10/2014`
 __Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef__, IFLA 2014 Satellite Meeting « Linked Data in Libraries: Let's make it happen! », Bibliothèque nationale de France (Paris).
 
+### Enseignements
+
+`2018 - /`
+__Master DEFI et Licence InfoCom : structuration et nature de l'information, gestion de projet documentaire, pérenité des documents d'activités, etc. (96h)__, Université Paris Nanterre (Nanterre).
+
+`2018 - /`
+__Masters 2 Histoire de l'Art : Initiation aux pratiques numériques en histoire de l'art (2x 3h30)__, Université de Bourgogne (Dijon).
+
+`2018`
+__Master MEDAS : éco-système du linked open data culturel + pratiques (3x3h30)__, Conservatoire national des arts et métiers (Paris).
+
+`2016-2018`
+__Master Gestionnaire de l'information : initiation XML + pratique autour de l'exploitation de données (4x3h)__, École de bibliothécaires-documentalistes (Paris).
+
+`2013-2015`
+__Master Métiers des archives et technologies appliquées : Initiation à l'XML dans le contexte patrimonial (18h)__, Université Picardie Jules Verne	(Amiens).
+
+
 ## Publications
 
 ### Ouvrages collectifs
@@ -253,87 +337,6 @@ Nicolas Foucault, Antoine Courtin. *Automatic Classification of Tweets for Analy
 
 `2014`
 Antoine Courtin, Jean-Luc Minel. *Methodological Proposals for Designing Federative Platforms in Cultural Linked Open Data: the example of MoDRef*. Linked Data in Libraries: Let's make it happen!, Aug 2014, Paris, France. pp.10-15, 2014.[〈hal-01070798〉](https://hal.archives-ouvertes.fr/hal-01070798)
-
-## Sélection de projets
-
-### en 2020
-`Pro`
-__Mise en ligne du carnet de recherche du service numérique de la recherche de l'INHA__. Carnet méthodologique et de veille du Service numérique de la recherche de l’Institut national de l’histoire de l’art (Département des études et de la recherche) .
-- [Consulter](https://numrha.hypotheses.org/)
-
-### en 2019
-`Pro`
-__Ontologie du christianisme médiéval en images__. Encyclopédie visuelle de la pensée chrétienne dans l’Occident médiéval réalisé avec OmekaS.
-- [Consulter](https://omci.inha.fr/s/ocmi/page/accueil)
-
-`Perso`
-__Bot Envois de Rome__. Je tweete des Envois de Rome issus de la base de données sous #AGORHA
-- [Consulter](https://twitter.com/envoisdeRomeBot)
-
-### en 2018
-`Pro`
-__Sur la piste des œuvres antiques__. Datavisualisation interactive des données du répertoire des ventes d'antiques (dépouillement des catalogues de ventes au XIXe).
-- [Consulter](https://ventesdantiques.inha.fr/)
-
-`Perso`
- __Participation à l'organisation du workshop "fabriquer des jeux de données en art» de l'association Humanistica__ (du28 au 30 mai 2018 à l'INHA)
- - [Consulter les ressources réalisées sur GITHUB](https://github.com/Humanistica/ArtDesignDH)
-
-### en 2017
-`Pro`
-__Webapp cartographique du RETIF__. Exploitation de données sous la forme d'une cartographie du répertoire des tableaux italiens dans les collections publiques françaises.
-- [Consulter](https://ventesdantiques.inha.fr/)
-
-`Perso`
-__BotInfocom__. Bot Twitter qui diffuse de faux titres d’articles/conférences en InfoCom aléatoirement générés réalisé grâce à tracery.js 
-- [Consulter](https://twitter.com/search?q=%23botInfocom&src=typd)
-
-### en 2016
-
-`Perso`
-__Co-pilotage du #DataSprint du Forum d'Association des archivistes français__. Organisation d'un évènement pour promouvoir l'Open data dans le milieu des archives.
-- [Consulter](http://datasprint.forum2016.archivistes.org/)
-
-`Pro`
-__Webdocumentaire autour du portail de Conques__. Webdocumentaire qui utilise un modèle 3D du portail de Conques.
-- [Consulter](https://portail3d-conques.inha.fr)
-
-`Perso`
-__Tableau périodique (ou pas) des outils/ressources pour les humanités numériques__. Sélection éditorialisée d'outils utiles pour des projets en digital humanities.
-- [Consulter](https://goo.gl/LI9nVj)
-
-### avant 2016
-
-`Perso`
-__Créateur d'une plateforme qui détaille les initiatives dites "museogeeks" (carte, graphe, etc.)__
-- [Consulter](http://museogeeks.com/)
-
-`Perso`
-__Co-organisateur de Museomix au Château des ducs de Bretagne – Musée d’histoire de Nantes (2013)__
-- [Consulter](http://www.museomix.org/editions/2013/nantes-2013)
-
-## Formation
-
-`2013`
-__Certification du MOOC "ABC de la gestion de projet"__
-
-- Ecole central, Lille
-
-`2008-2010`
-__Master "Nouvelles technologies appliquées aux sciences historiques", mention très bien__
-
-- Ecole nationale des chartes, Paris
-
-`2005-2008`
-__Licence Histoire de l'art et archéologie, mention bien__
-
-- Université Lille 3 - Charles-de-Gaulle
-
-`2005`
-__Baccalauréat, section ES, mention assez bien__
-
-- Lycée Sainte-Odile, Lambersart
-
 
 ## Centre d'intérêts
 

@@ -355,5 +355,5 @@ Ministère de la Culture et de la Communication (Paris)
 
 
 <div id="footer">
-Mis à jour le mercredi 6 janvier 2021.
+Mis à jour le mercredi 26 février 2021.
 </div>

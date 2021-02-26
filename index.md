@@ -3,7 +3,7 @@ layout: cv
 title: CV - Antoine Courtin
 ---
 # Antoine Courtin
-Ingénierie documentaire, humanités numériques, histoire de l'art, gestion de projet
+Ingénierie documentaire, humanités numériques, histoire de l'art, gestion de projet, gouvernance des données
 <div id="webaddress">
  CV à consulter en ligne : <a href="https://antoinecourtin.github.io/markdown-cv/">https://antoinecourtin.github.io/markdown-cv/</a> (rédigé en markdown, hébergé sur gihtub)
 </div>
@@ -31,9 +31,9 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 **Maitre de conférence associé** à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
-## Compétences opérationelles
+## Compétences opérationelles 
 
-> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire ; Formats de description et d'échanges des métadonnées culturelles ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Visualisation de l'inforamtion ; Gestion d'équipe ;
+> Ingénierie documentaire ; Conduite de projet, Veille scientifique, normative et technique ;  Traitement documentaire ; Formats de description et d'échanges des métadonnées culturelles ; Modélisation de l'information patrimoniale ; Web de données ; Analyse instrumentée des réseaux sociaux numérique ; Visualisation de l'inforamtion ; Gestion d'équipe ; Open data ; 
 
 ## Activités professionnelles
 ### Activité principale
@@ -46,6 +46,10 @@ __Maitre de conférence associé (à mi-temps) en ingénierie documentaire__, Un
 
 * Enseignement en licence Information-communication et Master DEFI (Document Electronique et Flux de l'Information), UFR PHILLIA
 * membre associé au [laboratoire Dicen (Dispositifs d’Information et de Communication à l’Ere Numérique](http://www.dicen-idf.org/membre/courtin-antoine/)
+* Intitulés des cours : Nature, structuration et traitement de l'information ; Gouvernance de l'information, qualité, archivage ; 
+ ; Analyse de données et datavisulalisation ; 
+ * suivi des projets de M2 
+
 
 `2015 - 2019`
 __Responsable de la Cellule d'ingénierie documentaire__, Institut national d'histoire de l'art (Paris)

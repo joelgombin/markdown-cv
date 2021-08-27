@@ -27,7 +27,7 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 ## Actuellement
 
-**Chef du service numérique de la recherche** à Institut national d'histoire de l'art (INHA).
+**Chargé de développement des ressources numériques du Centre de Ressources et de Recherches** chez l'Etablissement public du musée d’Orsay et du musée de l’Orangerie Valérie Giscard d’Estaing.
 
 **Maitre de conférence associé** à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
@@ -37,6 +37,11 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 ## Activités professionnelles
 ### Activité principale
+
+`2021 - / `
+__Chargé de développement des ressources numériques du Centre de Ressources et de Recherches__, Etablissement public du musée d’Orsay et du musée de l’Orangerie Valérie Giscard d’Estaing
+
+* Projet de préfiguration du centre de ressources et de recherche du musée d'Orsay dansle cadre du projet de transformation « Orsay Grand Ouvert »
 
 `2019 - / `
 __Chef du service numérique de la recherche__, Institut national d'histoire de l'art (Paris). [Présentation du service](https://www.inha.fr/fr/recherche/le-departement-des-etudes-et-de-la-recherche/service-numerique-de-la-recherche.html)
@@ -329,6 +334,9 @@ Antoine Courtin, Jean-Luc Minel. *Propositions méthodologiques pour la concepti
 Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”*. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop. [〈hal-01075432〉](https://hal.archives-ouvertes.fr/hal-01075432)
 
 ### Articles
+
+`2021`
+Olivier Bonfait, Antoine Courtin et Anne Klammt, *Humanités numériques et histoire de l’art en France : état de la recherche et perspectives* in Revue Histoire de l'art, ISBN : 978-2-909196-33-6, 2021.
 
 `2018`
 Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori, Supplement 10, 2018. A paraître.

@@ -201,6 +201,10 @@ __"Digital art history" : ce que fait (ou non) le numérique à la pratique de l
 `14/12/2021`
 __"Synthèse conclusive__, Journée d'étude autour des proejts de bases de données prosopographques en sciences humaines et sociales, Les Beaux-Arts de Paris, Paris.
 
+`18/03/2021`
+__Structurer et éditorialiser des données du secteur culturel : projets et expérimentations au sein de l'Institut national d'histoire de l'art__, Avec France Lechleiter, Colloque "Académisme et formation artistique au XIXe siècle : les envois de Rome en question, INHA, Paris.
+
+
 `21/01/2021`
 __La mise en données des envois de Rome: méthodologie et exploitations__, Avec France Lechleiter, Colloque "Académisme et formation artistique au XIXe siècle : les envois de Rome en question, INHA, Paris.
 

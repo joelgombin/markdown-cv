@@ -195,6 +195,12 @@ __Baccalauréat, section ES, mention assez bien__
 
 ## Interventions publiques
 
+`16/12/2021`
+__"Digital art history" : ce que fait (ou non) le numérique à la pratique de l'histoire ed l'art__, Journée de formation pré-doctorale et doctorale "Patrimoine, données et humanités numériques", Fondation des Sciences du Patrimoine, Paris.
+
+`14/12/2021`
+__"Synthèse conclusive__, Journée d'étude autour des proejts de bases de données prosopographques en sciences humaines et sociales, Les Beaux-Arts de Paris, Paris.
+
 `21/01/2021`
 __La mise en données des envois de Rome: méthodologie et exploitations__, Avec France Lechleiter, Colloque "Académisme et formation artistique au XIXe siècle : les envois de Rome en question, INHA, Paris.
 
@@ -334,9 +340,11 @@ Antoine Courtin, Jean-Luc Minel. *Propositions méthodologiques pour la concepti
 Antoine Courtin, Brigitte Juanals, Jean-Luc Minel, Léger Mathilde de Saint. *Tool-based Methodology to Analyze Social Network Interactions inCultural Fields: the Use Case “MuseumWeek”*. LCNS, Springer International Publishing Switzerland, pp.144-156, 2015, Proceedings of The 6th International Conference on Social Informatics. DYAD Workshop. [〈hal-01075432〉](https://hal.archives-ouvertes.fr/hal-01075432)
 
 ### Articles
+`2021`
+Antoine Courtin. Pour un regard à 360 degrés des corpus visuels : pratiques de mise à disposition et de réutilisation. DHNord 2019 : Corpus et archives numériques, Maison Européenne des Sciences de l'Homme et de la Société (MESHS), Oct 2019, Lille, France. ⟨hal-03351735⟩, à paraitre.
 
 `2021`
-Olivier Bonfait, Antoine Courtin et Anne Klammt, *Humanités numériques et histoire de l’art en France : état de la recherche et perspectives* in Revue Histoire de l'art, ISBN : 978-2-909196-33-6, 2021.
+Olivier Bonfait, Antoine Courtin, Anne Klammt. Humanités numériques et histoire de l’art en France : état de la recherche et perspectives. Histoire de l'art : bulletin d'information de l'Institut national d'histoire de l'art publié en collaboration avec l'Association des professeurs d'archéologie et d'histoire de l'art des universités, Apahau, 2021, pp.5-16. ⟨hal-03352544⟩
 
 `2018`
 Sébastien Biay, Antoine Courtin, Isabelle Marchsein. *L'OMCI - Ontology of Medieval Christianity in Image - Une encyclopédie par l'image*, Archeologia e Calcolatori, Supplement 10, 2018. A paraître.

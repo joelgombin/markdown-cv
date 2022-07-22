@@ -27,7 +27,7 @@ Pour me contacter : <a href="mailto:antoine.courtin@mac.com">antoine.courtin@mac
 
 ## Actuellement
 
-**Chargé de développement des ressources numériques du Centre de Ressources et de Recherches** chez l'Etablissement public du musée d’Orsay et du musée de l’Orangerie Valérie Giscard d’Estaing.
+**Chargé de développement des ressources numériques du Centre de Ressources et de Recherches** chez l'Etablissement public du musée d’Orsay et du musée de l’Orangerie Valéry Giscard d’Estaing.
 
 **Maitre de conférence associé** à l'Université Paris Nanterre, rattaché au laboratoire Dicen.
 
